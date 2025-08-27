@@ -11,7 +11,7 @@ Designed as a **portfolio project**, it showcases practical **data engineering**
 
 The solution follows the **Medallion Architecture** with three layers:  
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture]
 
 1. **Bronze (Raw Layer)** → Stores ingested data from CSV files into SQL Server (ERP & CRM sources).  
 2. **Silver (Cleansed Layer)** → Standardizes, validates, and transforms raw data into a structured form.  
